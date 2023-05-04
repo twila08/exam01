@@ -1,6 +1,8 @@
 
 public class Square_238 {
 	int length;
+	int area;
+	int perimeter;
 	
 	Square_238(int lenght)
 	{
